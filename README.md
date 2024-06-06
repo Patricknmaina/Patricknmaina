@@ -1,5 +1,5 @@
 ## Hello there, my name is Patrick Maina
-- I am a graduate from the University of Nairobi with a Bachelor of Science, BS, in Electrical and Electronics Engineering.
+- I am a recent graduate from the University of Nairobi with a Bachelor of Science, BS, in Electrical and Electronics Engineering.
 
 - My areas of interest include:
   - Machine learning for Signal and Speech Processing
@@ -15,7 +15,7 @@
   - Automatic Speech Recognition (ASR)
 
 ### I am currently learning:
-- Machine Learning and Deep Learning frameworks: Pytorch | Keras
+- Deep Learning frameworks: Pytorch | Keras
 
 - Natural Language Processing (NLP)
 
