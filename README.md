@@ -1,5 +1,5 @@
 ## Hello there, my name is Patrick Maina
-- I am a graduate from the University of Nairobi with a Bachlor of Science, BS, in Electrical and Electronics Engineering.
+- I am a graduate from the University of Nairobi with a Bachelor of Science, BS, in Electrical and Electronics Engineering.
 
 - My areas of interest include:
   - Machine learning for Signal and Speech Processing
@@ -21,7 +21,7 @@
 
 - Apache System ML
 
-- Containerisation with Docker
+- Containerization with Docker
 
 ### How to reach me:
 - Email: patrickmaina364@gmail.com
