@@ -27,3 +27,5 @@
 - Email: patrickmaina364@gmail.com
 
 - LinkedIn: [Patrick Maina](https://www.linkedin.com/in/patrick-maina-6515321b0/)
+
+- Personal Website: https://maina-patrick.github.io/
