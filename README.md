@@ -1,5 +1,5 @@
 ## Hello there, my name is Patrick Maina
-- I am a recent graduate from the University of Nairobi with a Bachelor of Science, BSc., in Electrical and Electronics Engineering.
+- I am a graduate from the University of Nairobi with a Bachelor of Science, BSc., in Electrical and Electronics Engineering.
 
 - My areas of interest include:
   - Machine learning for Signal and Speech Processing
@@ -8,7 +8,7 @@
   
   - Linux OS
   
-  - FPGA Software Development
+  - FPGAs and ASICs
   
   - Software Defined Radios (SDRs)
   
