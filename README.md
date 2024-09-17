@@ -1,27 +1,21 @@
 ## 👋🏾 Hello there, I'm Patrick!
 - I am a graduate from the University of Nairobi with a Bachelor of Science, BSc., in Electrical and Electronics Engineering.
 
-- My areas of interest include:
+- My research interests include:
   - Machine learning for Signal and Speech Processing
    
-  - Embedded Systems
-  
-  - Linux OS
-  
+  - Deep Learning Approaches
+    
   - FPGAs and ASICs
-  
-  - Software Defined Radios (SDRs)
-  
+      
   - Automatic Speech Recognition (ASR)
  
   - Large Language Models (LLMs)
 
 ### 💻 I am currently learning:
-- Deep Neural Networks
+- Deep Neural Networks (DNNs)
   
 - ML frameworks: Pytorch
-
-- Natural Language Processing (NLP)
 
 - LLM Fine-Tuning
 
