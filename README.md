@@ -1,5 +1,5 @@
 ## 👋🏾 Hello there, I'm Patrick!
-- I am a graduate from the University of Nairobi with a Bachelor of Science, BSc., in Electrical and Electronics Engineering.
+- I'm a graduate from the University of Nairobi with a Bachelor of Science, BSc., in Electrical and Electronics Engineering.
 
 - My research interests include:
   - Machine learning for Signal and Speech Processing
