@@ -8,16 +8,11 @@
     
   - FPGAs and ASICs
       
-  - Automatic Speech Recognition (ASR)
- 
   - Large Language Models (LLMs)
-
-### 💻 I am currently learning:
-- Deep Neural Networks (DNNs)
-  
-- ML frameworks: Pytorch
-
-- LLM Fine-Tuning
+ 
+  - Software Defined Radios (SDR)
+ 
+  - LPWANs for Low Resource Devices
 
 ### 🚀 How to reach me:
 - Email: patrickmaina364@gmail.com
