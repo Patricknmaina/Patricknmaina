@@ -1,5 +1,5 @@
 ## 👋🏾 Hello there, I'm Patrick!
-- I have a background in ELectrical and Electronics Engineering.
+- I have a background in Electrical and Electronics Engineering.
 
 - My research interests include:
   - Machine learning for Signal and Speech Processing
