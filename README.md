@@ -1,20 +1,20 @@
 ## 👋🏾 Hello there, I'm Patrick!
-- I have a background in Electrical and Electronics Engineering.
+- My background is in Electrical and Electronics Engineering.
 
 - My research interests include:
   - Machine learning for Signal and Speech Processing
    
-  - Deep Learning Approaches
-    
-  - FPGAs and ASICs
+  - AI and Deep Learning in FPGAs
       
-  - Large Language Models (LLMs)
+  - Large Language Model (LLM) Fine Tuning
  
   - Software Defined Radios (SDR)
- 
-  - LPWANs for Low Resource Devices
+
+  - Space Systems Design
 
 ### 🚀 How to reach me:
 - Email: patrickmaina364@gmail.com
 
 - LinkedIn: [Patrick Maina](https://www.linkedin.com/in/patrick-maina-6515321b0/)
+
+- Website: [Patricknmaina.github.io](https://patricknmaina.github.io/)
